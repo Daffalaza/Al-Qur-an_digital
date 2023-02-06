@@ -6,3 +6,7 @@
 .card-surat:hover{
     background-color: #2fb307;
 }
+
+.hidden-button{
+    display: none;
+}
